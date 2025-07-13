@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/NumberGuessingGameProject.iml" filepath="$PROJECT_DIR$/NumberGuessingGameProject.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/student_management_gui.iml" filepath="$PROJECT_DIR$/student_management_gui.iml" />
+>>>>>>> 209b17375a6ba69ed5785d33d3a69e3edde4a9fb
     </modules>
   </component>
 </project>
